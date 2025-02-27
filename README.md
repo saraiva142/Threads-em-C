@@ -16,3 +16,8 @@ gcc -o threads_sleep programa.c -pthread
 ```bash
 ./threads_sleep
 ```
+
+## Resultados
+
+![image](https://github.com/user-attachments/assets/11b7f5b6-e0de-4b57-8351-e39c54155121)
+
